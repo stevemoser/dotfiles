@@ -1,0 +1,5 @@
+[pretty]
+  colored = format:%Cred%h%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset
+[user]
+  name = Steve Moser
+  email = contact@stevemoser.org
