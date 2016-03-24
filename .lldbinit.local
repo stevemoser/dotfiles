@@ -1,2 +1,3 @@
+# Shouldn't be needed anymore since Xcode 7.3 - In most cases, this change eliminates the need to manually import modules while debugging. For example, using expr — @import UIKit—commonly used to ensure that SDK declarations were available—is no longer necessary.  (11609847)
 display @import UIKit
 target stop-hook add -o "target stop-hook disable"
